@@ -6,7 +6,7 @@
 
 
 ![2](https://user-images.githubusercontent.com/95377904/195972889-45ba6b8c-f36f-4223-bf15-8ae15a6a9f21.png)
-<h1 align="center">Hi 👋, I'm TARUN UPADHYAY</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+TARUN+UPADHYAY!;Full+Stack+Developer...;" style="max-width: 100%;">
 
 ![Vanilla-0 8s-230px](https://user-images.githubusercontent.com/95377904/196263599-e11ce79b-a719-4428-b816-b4a1e97e1429.gif)
 
