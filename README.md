@@ -34,7 +34,8 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarun-upadhyay&theme=radical&border_radius=4.6)](https://git.io/streak-stats)
 <!---
 tarun-upadhyay/tarun-upadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
