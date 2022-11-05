@@ -36,6 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 --
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarun-upadhyay&theme=radical&border_radius=4.6)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-upadhyay&langs_count=8)
 <!---
 tarun-upadhyay/tarun-upadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
