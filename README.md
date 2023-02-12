@@ -17,6 +17,7 @@
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me https://www.linkedin.com/in/tarun-kr-upadhyay/
 - ⭐ Here is my resume https://1drv.ms/b/s!AholmFLz4o5U8l5ZvA99-fPc3RM5?e=Uk5vBa
+- 
 - My portfolio where you can see my work: https://tarun-upadhyay.github.io/
 
 # 💻 Tech Stack 
