@@ -1,7 +1,4 @@
 
-```js
-console.log("A web developer by profession and fitness enthusiast by interest!");
-```
 <h1 align="left"> <i>Hi There! I'm Tarun 👋 </i></h1>
 
 
@@ -70,7 +67,7 @@ console.log("A web developer by profession and fitness enthusiast by interest!")
 
 <div >
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tarun-upadhyay&theme=radical&border_radius=4.6" alt="Github Streaks"/>
-  <img height="165px" alt="most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-upadhyay&layout=compact&langs_count=8&theme=react" />
+  <img  alt="most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-upadhyay&layout=compact&langs_count=8&theme=react" />
 </div>
 
 <div align="center">
