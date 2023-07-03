@@ -28,7 +28,20 @@ console.log("A web developer by profession and fitness enthusiast by interest!")
 
 🔗 Visit and See my work and projects: [Portfolio](https://tarun-upadhyay.github.io/)
 
+<hr/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tarun-upadhyay&style=for-the-badge"/>
+</div>
+
+<div align="center">
+<img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/tarun-upadhyay?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+<img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tarun-upadhyay"/>
+</div>
+
+<div align="center">
+<a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
+</div>
 
 # 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
