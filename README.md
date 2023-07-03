@@ -2,7 +2,7 @@
 ```js
 console.log("A web developer by profession and fitness enthusiast by interest!");
 ```
-
+<h1 align="left"> <i>Hi There! I'm Tarun 👋 </i></h1>
 
 
 ![2](https://user-images.githubusercontent.com/95377904/195972889-45ba6b8c-f36f-4223-bf15-8ae15a6a9f21.png)
@@ -12,12 +12,23 @@ console.log("A web developer by profession and fitness enthusiast by interest!")
 
 
 
-- 👀 I’m interested in make life easier with code.
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Git
-- 📫 How to reach me https://www.linkedin.com/in/tarun-kr-upadhyay/
-- ⭐ Here is my resume https://1drv.ms/b/s!AholmFLz4o5U8l5ZvA99-fPc3RM5?e=Uk5vBa
-- My portfolio where you can see my work: https://tarun-upadhyay.github.io/
+💛 In love with **`JavaScript`**
+
+🎨 Love writing CSS
+
+👨🏼‍💻 Currently working with **Next.JS**, **Redux**, **Tailwind CSS** & **TypeScript**
+
+🌱 Learning **Java**, **Next.JS**, **Development** & **Material UI**
+
+💬 Always ready to discuss stuff about web! 🕸
+
+📃 Here is My resume: [CV](https://drive.google.com/file/d/1NGevcYJV8UIR0sPOb6CVdsPvIo5C6Vjx/view?usp=sharing)
+
+ℹ️ Connect with me on LinkedIn: [tarun-kr-upadhyay](https://www.linkedin.com/in/tarun-kr-upadhyay/)
+
+🔗 Visit and See my work and projects: [Portfolio](https://tarun-upadhyay.github.io/)
+
+
 
 # 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
