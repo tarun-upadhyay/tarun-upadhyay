@@ -3,8 +3,10 @@
 
 
 ![2](https://user-images.githubusercontent.com/95377904/195972889-45ba6b8c-f36f-4223-bf15-8ae15a6a9f21.png)
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+TARUN+UPADHYAY!;Full+Stack+Developer...;" style="max-width: 100%;">
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=32&pause=994&background=E233FF00&width=452&lines=Full+Stack+Web+Developer;Frontend+Development;Backend+Development)](https://git.io/typing-svg)
+</div>
 
 
 
