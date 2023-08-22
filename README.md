@@ -8,6 +8,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=800&size=32&pause=994&background=E233FF00&width=452&lines=Full+Stack+Web+Developer;Frontend+Development;Backend+Development)](https://git.io/typing-svg)
 </div>
 
+## About me
+A Dedicated Full-Stack web developer passionate
+about learning new skills & solving problems. Having
+a good understanding of the MERN stack for
+developing web apps. Aim to build a career as a
+web developer and make a significant contribution
+to an organization.
+
+---
 
 
 
