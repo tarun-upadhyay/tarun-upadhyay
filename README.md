@@ -26,8 +26,6 @@ to an organization.
 
 👨🏼‍💻 Currently working with **Next.JS**, **Redux**, **Tailwind CSS** & **TypeScript**
 
-🌱 Learning **Java**, **Next.JS**, **Development** & **Material UI**
-
 💬 Always ready to discuss stuff about web! 🕸
 
 📃 Here is My resume: [CV](https://drive.google.com/file/d/1NGevcYJV8UIR0sPOb6CVdsPvIo5C6Vjx/view?usp=sharing)
